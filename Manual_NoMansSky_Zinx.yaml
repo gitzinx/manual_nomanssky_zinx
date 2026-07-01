@@ -1,0 +1,14 @@
+name: Zinx
+description: Default template created by the Manual Builder tool
+
+game: Manual_NoMansSky_Zinx
+
+Manual_NoMansSky_Zinx:
+    progression_balancing: 50
+    accessibility: items
+
+    # Pick your end goal by setting the number below:
+    #   0 = Mine Activated Indium in a Blue System   (exploration focused)
+    #   1 = Craft a Quantum Processor                (shorter high-end crafting goal)
+    #   2 = Craft a Fusion Ignitor OR a Stasis Device (longer high-end crafting goal)
+    goal: 0
