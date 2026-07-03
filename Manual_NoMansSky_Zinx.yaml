@@ -10,5 +10,6 @@ Manual_NoMansSky_Zinx:
     # Pick your end goal by setting the number below:
     #   0 = Mine Activated Indium in a Blue System   (exploration focused)
     #   1 = Craft a Quantum Processor                (shorter high-end crafting goal)
-    #   2 = Craft a Fusion Ignitor OR a Stasis Device (longer high-end crafting goal)
+    #   2 = Craft a Fusion Ignitor OR Stasis Device (longer high-end crafting goal)
+    #   3 = Mine Activated Indium in a Blue System AND Craft a Fusion Ignitor or Stasis Device (very long; combination of goals 0 and 2)
     goal: 0
