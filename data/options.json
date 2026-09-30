@@ -1,0 +1,223 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "max_missions": {
+            "type": "Range",
+            "description": [
+                "Sets the maximum amount of Space Station missions to do. Range from 1-100",
+                "Location checks will go 1-2-3-5 then every 5 until maximum"
+            ],
+            "range_start": 1,
+            "range_end": 100,
+            "default": 3
+        },
+        "mission_steps": {
+            "type": "Range",
+            "description": [
+                "Set steps that the location checks for missions should be after 5.",
+                "For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3."
+            ],
+            "range_start": 1,
+            "range_end": 100,
+            "default": 1
+        },
+        "overall_journey_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Overall Journey' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "alien_encounters_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Alien Encounters' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "words_collected_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Words Collected' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "space_exploration_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Space Exploration' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "planetary_zoology_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Planetary Zoology' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "on_foot_exploration_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'On-foot Exploration' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "extreme_survival_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Extreme Survival' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "sentinels_destroyed_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Sentinels Destroyed' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "units_accrued_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Units Accrued' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "ships_destroyed_milestone_max_star": {
+            "type": "Range",
+            "description": [
+                "Set max milestone star count for 'Ships Destroyed' milestone checks. Range from 0-10 (0 disables this milestone)"
+            ],
+            "range_start": 0,
+            "range_end": 10,
+            "default": 3
+        },
+        "species_standing_maximum": {
+            "type": "Range",
+            "description": [
+                "Set max standing points needed from the various species (Gek, Korvax and Vy'keen). Range from 0-100 (0 disables these checks)",
+                "Location checks will go 1-2-3-5 then every 5 until maximum"
+            ],
+            "range_start": 0,
+            "range_end": 100,
+            "default": 10
+        },
+        "species_standing_steps": {
+            "type": "Range",
+            "description": [
+                "Set steps that the location checks for species standing points should be after 5.",
+                "For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3."
+            ],
+            "range_start": 1,
+            "range_end": 100,
+            "default": 5
+        },
+        "faction_standing_maximum": {
+            "type": "Range",
+            "description": [
+                "Set max standing points needed from the various factions (Merchant, Mercenary, Explorer). Range from 0-100 (0 disables these checks)",
+                "Location checks will go 1-2-3-5 then every 5 until maximum"
+            ],
+            "range_start": 0,
+            "range_end": 100,
+            "default": 10
+        },
+        "outlaw_standing_maximum": {
+            "type": "Range",
+            "description": [
+                "Set max standing points needed from the Outlaw faction. Range from 0-100 (0 disables these checks)",
+                "Location checks will go 1-2-3-5 then every 5 until maximum"
+            ],
+            "range_start": 0,
+            "range_end": 100,
+            "default": 10
+        },
+        "faction_standing_steps": {
+            "type": "Range",
+            "description": [
+                "Set steps that the location checks for faction standing points should be after 5.",
+                "For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3."
+            ],
+            "range_start": 1,
+            "range_end": 100,
+            "default": 5
+        },
+        "enable_fishing_checks": {
+            "type": "Toggle",
+            "description": [
+                "Enable checks which expand upon fishing mechanics"
+            ]
+        },
+        "enable_cooking_checks": {
+            "type": "Toggle",
+            "description": [
+                "Enable checks which expand upon cooking mechanics"
+            ]
+        },
+        "enable_freighter_checks": {
+            "type": "Toggle",
+            "description": [
+                "Enable checks which expand upon freighter mechanics"
+            ]
+        },
+        "enable_archaeology_checks": {
+            "type": "Toggle",
+            "description": [
+                "Enable checks which expand upon archaeology mechanics"
+            ]
+        },
+        "enable_twitch_drops": {
+            "type": "Toggle",
+            "description": [
+                "Enable twitch drop items"
+            ]
+        },
+        "enable_expedition_rewards": {
+            "type": "Toggle",
+            "description": [
+                "Enable expedition reward items"
+            ]
+        }
+    }
+
+}

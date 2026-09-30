@@ -1,0 +1,195 @@
+{
+  "01. Warp Kit - Escape the First System": {
+    "hidden": false
+  },
+  "02. Hyperdrives - Region Unlocks": {
+    "hidden": false
+  },
+  "03. Keystone Blueprints - Unlock Large Blocks of Checks": {
+    "hidden": false
+  },
+  "04. Goal Blueprints - Quantum Processor": {
+    "hidden": false
+  },
+  "05. Goal Blueprints - Stasis Device": {
+    "hidden": false
+  },
+  "06. Goal Blueprints - Fusion Ignitor": {
+    "hidden": false
+  },
+  "07. Goal Events - Auto-Granted Milestones": {
+    "hidden": false
+  },
+  "08. Base Building - Progression": {
+    "hidden": false
+  },
+  "09. Base Building - Utility & Cosmetic": {
+    "hidden": false
+  },
+  "10. Starship - Ship Unlocks": {
+    "hidden": false
+  },
+  "11. Starship - Technology": {
+    "hidden": false
+  },
+  "12. Multi-Tool - Technology": {
+    "hidden": false
+  },
+  "13. Exosuit - Technology": {
+    "hidden": false
+  },
+  "14. Freighter - Technology": {
+    "hidden": false
+  },
+  "15. Exocraft": {
+    "hidden": false
+  },
+  "16. Products - Refined & Trade Goods": {
+    "hidden": false
+  },
+  "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards": {
+    "hidden": false
+  },
+  "00. Setup": {
+    "hidden": false
+  },
+  "01. Critical Path - Escape the First System": {
+    "hidden": false
+  },
+  "02. Story - Awakenings / Alone Amidst the Stars": {
+    "hidden": false
+  },
+  "03. Critical Path - Warp Ladder to Blue": {
+    "hidden": false
+  },
+  "04a. Goal Craft - Quantum Processor (Superconductor Branch)": {
+    "hidden": false
+  },
+  "04b. Goal Craft - Quantum Processor (Circuit Board Branch)": {
+    "hidden": false
+  },
+  "04c. Goal Craft - Quantum Processor (Final Assembly)": {
+    "hidden": false
+  },
+  "05a. Goal Craft - Stasis Device (Iridesite Branch)": {
+    "hidden": false
+  },
+  "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)": {
+    "hidden": false
+  },
+  "05c. Goal Craft - Stasis Device (Final Assembly)": {
+    "hidden": false
+  },
+  "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)": {
+    "hidden": false
+  },
+  "06b. Goal Craft - Fusion Ignitor (Geodesite Branch)": {
+    "hidden": false
+  },
+  "06c. Goal Craft - Fusion Ignitor (Final Assembly)": {
+    "hidden": false
+  },
+  "07. Goals - Victory Condition": {
+    "hidden": false
+  },
+  "08. Sentinel Starship - Dissonant World Chain": {
+    "hidden": false
+  },
+  "09. Gathering": {
+    "hidden": false
+  },
+  "10. Discovery - Scans": {
+    "hidden": false
+  },
+  "11a. Milestones - Overall Journey": {
+    "hidden": false
+  },
+  "11b. Milestones - Alien Encounters": {
+    "hidden": false
+  },
+  "11c. Milestones - Words Collected": {
+    "hidden": false
+  },
+  "11d. Milestones - Space Exploration": {
+    "hidden": false
+  },
+  "11e. Milestones - Planetary Zoology": {
+    "hidden": false
+  },
+  "11f. Milestones - On-foot Exploration": {
+    "hidden": false
+  },
+  "11g. Milestones - Extreme Survival": {
+    "hidden": false
+  },
+  "11h. Milestones - Sentinels Destroyed": {
+    "hidden": false
+  },
+  "11i. Milestones - Units Accrued": {
+    "hidden": false
+  },
+  "11j. Milestones - Ships Destroyed": {
+    "hidden": false
+  },
+  "12a. Combat - On Foot": {
+    "hidden": false
+  },
+  "12b. Combat - Space": {
+    "hidden": false
+  },
+  "13a. Activities - Ships, Multi-Tools & Exocraft": {
+    "hidden": false
+  },
+  "13b. Activities - Base Building": {
+    "hidden": false
+  },
+  "13c. Activities - Creatures": {
+    "hidden": false
+  },
+  "13d. Activities - Points of Interest": {
+    "hidden": false
+  },
+  "13e. Activities - Missions": {
+    "hidden": false
+  },
+  "13f. Activities - Miscellaneous": {
+    "hidden": false
+  },
+  "14a. Optional Activities - Fishing": {
+    "hidden": false,
+    "yaml_option": ["enable_fishing_checks"]
+  },
+  "14b. Optional Activities - Cooking": {
+    "hidden": false,
+    "yaml_option": ["enable_cooking_checks"]
+  },
+  "14c. Optional Activities - Freighters": {
+    "hidden": false,
+    "yaml_option": ["enable_freighter_checks"]
+  },
+  "14d. Optional Activities - Archaeology": {
+    "hidden": false,
+    "yaml_option": ["enable_archaeology_checks"]
+  },
+  "15a. Standings - Species - Gek": {
+    "hidden": false
+  },
+  "15b. Standings - Species - Korvax": {
+    "hidden": false
+  },
+  "15c. Standings - Species - Vy'keen": {
+    "hidden": false
+  },
+  "15d. Standings - Factions - Explorers Guild": {
+    "hidden": false
+  },
+  "15e. Standings - Factions - Merchants Guild": {
+    "hidden": false
+  },
+  "15f. Standings - Factions - Mercenaries Guild": {
+    "hidden": false
+  },
+  "15g. Standings - Factions - Outlaws": {
+    "hidden": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "First System": {
+    "starting": true,
+    "connects_to": [
+      "Open Galaxy (Yellow Systems)"
+    ],
+    "requires": ""
+  },
+  "Open Galaxy (Yellow Systems)": {
+    "connects_to": [
+      "Red System",
+      "Green System",
+      "Blue System"
+    ],
+    "requires": "|Metal Plating Blueprint| AND |Warp Cell Blueprint| AND |Starship Launch Fuel Blueprint| AND |Antimatter Blueprint| AND |Carbon Nanotubes Blueprint| AND |Di-hydrogen Jelly Blueprint| AND |Portable Refiner Blueprint| AND |Antimatter Housing Blueprint|"
+  },
+  "Red System": {
+    "connects_to": [],
+    "requires": "|Progressive Warp Drive:1|"
+  },
+  "Green System": {
+    "connects_to": [],
+    "requires": "|Progressive Warp Drive:2|"
+  },
+  "Blue System": {
+    "connects_to": [],
+    "requires": "|Progressive Warp Drive:3|"
+  }
+}
