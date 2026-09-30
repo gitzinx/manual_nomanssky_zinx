@@ -46,7 +46,6 @@ Manual_NoMansSky_Zinx:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
-    50: 0
     random: 0
     random-low: 0 # random value weighted towards lower values
     random-high: 0 # random value weighted towards higher values
@@ -64,12 +63,43 @@ Manual_NoMansSky_Zinx:
     full: 50
     minimal: 0
 
+  starting_blueprints:
+    # Blueprints you will start with to assist in leaving the first system
+    # Options are: 'Metal Plating', 'Carbon Nanotubes', 'Warp Cell', 'Antimatter', 'Antimatter Housing', 'Di-hydrogen Jelly', 'Portable Refiner', 'Starship Launch Fuel', 'Terrain Manipulator', 'Scanner', 'Analysis Visor'
+    ['Terrain Manipulator', 'Scanner', 'Analysis Visor']
+
   goal:
     # How to End your Randomized playthrough.
     mine activated indium in a blue system: 50
     obtain fusion ignitor or stasis device: 0
     mine activated indium in a blue system and obtain fusion ignitor or stasis device: 0
     obtain quantum processor victory: 0
+
+  max_missions:
+    # Sets the maximum amount of Space Station missions to do. Range from 1-100
+    # Location checks will go 1-2-3-5 then every 5 until maximum
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 100
+    3: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-100: 0 # random value between 1 and 100
+
+  mission_steps:
+    # Set steps that the location checks for missions should be after 5.
+    # For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 95
+    1: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-95: 0 # random value between 1 and 95
 
   overall_journey_milestone_max_star:
     # Set max milestone star count for 'Overall Journey' milestone checks. Range from 0-10 (0 disables this milestone)
@@ -190,6 +220,101 @@ Manual_NoMansSky_Zinx:
     random-low: 0 # random value weighted towards lower values
     random-high: 0 # random value weighted towards higher values
     random-range-0-10: 0 # random value between 0 and 10
+
+  species_standing_maximum:
+    # Set max standing points needed from the various species (Gek, Korvax and Vy'keen). Range from 0-100 (0 disables these checks)
+    # Location checks will go 1-2-3-5 then every 5 until maximum
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    10: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-100: 0 # random value between 0 and 100
+
+  species_standing_steps:
+    # Set steps that the location checks for species standing points should be after 5.
+    # For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 95
+    5: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-95: 0 # random value between 1 and 95
+
+  faction_standing_maximum:
+    # Set max standing points needed from the various factions (Merchant, Mercenary, Explorer). Range from 0-100 (0 disables these checks)
+    # Location checks will go 1-2-3-5 then every 5 until maximum
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    10: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-100: 0 # random value between 0 and 100
+
+  outlaw_standing_maximum:
+    # Set max standing points needed from the Outlaw faction. Range from 0-100 (0 disables these checks)
+    # Location checks will go 1-2-3-5 then every 5 until maximum
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    10: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-100: 0 # random value between 0 and 100
+
+  faction_standing_steps:
+    # Set steps that the location checks for faction standing points should be after 5.
+    # For example: Default is 5 so checks will go 1,2,3,5,10,15... An option of 2 will go 1,2,3,5,7,9,11... Option of 1 will start after 3.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 95
+    5: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-95: 0 # random value between 1 and 95
+
+  enable_fishing_checks:
+    # Enable checks which expand upon fishing mechanics
+    'false': 50
+    'true': 0
+
+  enable_cooking_checks:
+    # Enable checks which expand upon cooking mechanics
+    'false': 50
+    'true': 0
+
+  enable_freighter_checks:
+    # Enable checks which expand upon freighter mechanics
+    'false': 50
+    'true': 0
+
+  enable_archaeology_checks:
+    # Enable checks which expand upon archaeology mechanics
+    'false': 50
+    'true': 0
+
+  enable_twitch_drops:
+    # Enable twitch drop items
+    'false': 50
+    'true': 0
+
+  enable_expedition_rewards:
+    # Enable expedition reward items
+    'false': 50
+    'true': 0
 
   ###########################
   # Item & Location Options #
