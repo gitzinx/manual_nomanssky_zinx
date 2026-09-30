@@ -1,0 +1,1551 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Metal Plating Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Carbon Nanotubes Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Warp Cell Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Creature Pellets Blueprint",
+      "count": 1,
+      "category": [
+        "03. Keystone Blueprints - Unlock Large Blocks of Checks"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Antimatter Housing Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Antimatter Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Hermetic Seal Blueprint",
+      "count": 1,
+      "category": [
+        "03. Keystone Blueprints - Unlock Large Blocks of Checks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Di-hydrogen Jelly Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Portable Refiner Blueprint",
+      "count": 1,
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Personal Refiner Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Personal Refiner Mk 2 Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Boltcaster Blueprint",
+      "count": 1,
+      "category": [
+        "03. Keystone Blueprints - Unlock Large Blocks of Checks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Base Computer Blueprint",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Timber Shelter Construction Blueprints",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Stone Shelter Construction Blueprints",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Alloy Shelter Construction Blueprints",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Progressive Warp Drive",
+      "count": 3,
+      "category": [
+        "02. Hyperdrives - Region Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Corvette Assembly",
+      "count": 1,
+      "category": [
+        "10. Starship - Ship Unlocks"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Custom Starship Assembly",
+      "count": 1,
+      "category": [
+        "10. Starship - Ship Unlocks"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Conflict Scanner Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Starshield Battery Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Instability Drive Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Teleport Receiver Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Flight Assist Override Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Economy Scanner Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Efficient Thrusters Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Ablative Armor Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Nonlinear Optics Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Launch Auto-Charger Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "All Starship Upgrades",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Emergency Warp Unit Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Rocket Launcher Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Phase Beam Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Positron Ejector Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Infra-Knife Accelerator Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Cyclotron Ballista Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Cargo Scan Deflector Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Rocket Tubes Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fourier De-Limiter Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fragment Supercharger Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Q-Resonator Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Dyson Pump Blueprint",
+      "count": 1,
+      "category": [
+        "11. Starship - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Advanced Mining Laser Blueprint",
+      "count": 1,
+      "category": [
+        "03. Keystone Blueprints - Unlock Large Blocks of Checks"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Barrel Ioniser Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Optical Drill Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "All Multi-Tool Upgrades",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Scatter Blaster Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Pulse Splitter Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Blaze Javelin Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Plasma Launcher Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Neutron Cannon Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Geology Cannon Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Paralysis Mortar Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Personal Forcefield Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Waveform Recycler Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Combat Scope Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Cloaking Device Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Voltaic Amplifier Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Boltcaster Ricochet Module Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Waveform Oscillator Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Mass Accelerator Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Shell Greaser Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Amplified Cartridges Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "P-Field Compressor Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Pulse Spitter Ricochet Module Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Impact Igniter Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "All Exosuit Upgrades",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Haz-Mat Gauntlets Blueprint",
+      "count": 1,
+      "category": [
+        "03. Keystone Blueprints - Unlock Large Blocks of Checks"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Oxygen Recycler Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Coolant Network Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Thermic Layer Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Toxin Suppressor Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Radiation Deflector Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Shield Lattice Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Neural Stimulator Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Airburst Engine Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Rocket Boots Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Simple Translator Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Superior Translator Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Advanced Translator Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Trade Rocket Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Exo-Skiff Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "useful": true,
+      "requires": "{YamlEnabled(enable_fishing_checks)}"
+    },
+    {
+      "name": "Aeration Membrane Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Pressure Membrane Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Nutrient Ingestor Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Oxygen Rerouter Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Efficient Water Jets Blueprint",
+      "count": 1,
+      "category": [
+        "13. Exosuit - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fishing Rig Blueprint",
+      "count": 1,
+      "category": [
+        "12. Multi-Tool - Technology"
+      ],
+      "progression_skip_balancing": true,
+      "requires": "{YamlEnabled(enable_fishing_checks)}"
+    },
+    {
+      "name": "Microprocessor Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Progressive AtlasPass Blueprint",
+      "count": 3,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Hypercore Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Solar Mirror Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Unstable Plasma Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Hydraulic Wiring Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Quantum Computer Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Amino Chamber Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Magnetic Resonator Blueprint",
+      "count": 1,
+      "category": [
+        "16. Products - Refined & Trade Goods"
+      ],
+      "useful": true
+    },
+    {
+      "name": "All Exocraft Blueprints",
+      "count": 1,
+      "category": [
+        "15. Exocraft"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Construction Research Unit Blueprint",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Base Teleport Module Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Base Biofuel Reactor Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Battery Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Solar Panel Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Save Beacon Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Health Station Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Signal Booster Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "useful": true
+    },
+    {
+      "name": "Base Building Hazard Protection Unit Blueprint",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Salvaged Shelter Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Primitive Shapes Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Storage Units Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Large Prefabs Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Small Prefabs Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Technology Modules Construction Blueprints",
+      "count": 1,
+      "category": [
+        "08. Base Building - Progression"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Aquatic Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Decal Designs Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Posters Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Decorative Modules Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Fossil Displays Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Illumination Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Industrial Modules Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Agricultural Modules Construction Blueprints",
+      "count": 1,
+      "category": [
+        "09. Base Building - Utility & Cosmetic"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Freighter Hyperdrive",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "progression_skip_balancing": true
+    },
+    {
+      "name": "Frigate Fuel",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "progression_skip_balancing": true,
+      "requires": "{YamlEnabled(enable_freighter_checks)}"
+    },
+    {
+      "name": "Fuel Oxidiser Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Mind Control Device Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Holographic Analyser Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Mineral Compressor Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Explosive Drones Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Warp Core Resonator Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Plasmatic Warp Injector Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Reality De-Threader Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Amplified Warp Shielding Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Chromatic Warp Shielding Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Temporal Warp Computer Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Matter Beam Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "name": "Interstellar Scanner Blueprint",
+      "count": 1,
+      "category": [
+        "14. Freighter - Technology"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Starship Launch Fuel Blueprint",
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Terrain Manipulator Blueprint",
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Scanner Blueprint",
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Analysis Visor Blueprint",
+      "category": [
+        "01. Warp Kit - Escape the First System"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "name": "Thermic Condensate Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Nitrogen Salt Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Enriched Carbon Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Semiconductor Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Superconductor Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Heat Capacitor Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Poly Fibre Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Circuit Board Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Quantum Processor Blueprint",
+      "count": 1,
+      "category": [
+        "04. Goal Blueprints - Quantum Processor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Grantine Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Magno-Gold Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Aronium Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Iridesite Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Hot Ice Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Cryo-Pump Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Glass Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Lubricant Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Living Glass Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Cryogenic Chamber Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Stasis Device Blueprint",
+      "count": 1,
+      "category": [
+        "05. Goal Blueprints - Stasis Device"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Organic Catalyst Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Fusion Accelerant Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Acid Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Unstable Gel Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Liquid Explosive Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Portable Reactor Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Dirty Bronze Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Lemmium Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Herox Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Geodesite Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "name": "Fusion Ignitor Blueprint",
+      "count": 1,
+      "category": [
+        "06. Goal Blueprints - Fusion Ignitor"
+      ],
+      "progression": true
+    },
+    {
+      "count": "5",
+      "name": "One Twitch Drop Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": "5",
+      "name": "One Twitch Drop Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Vector Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Utopia Speeder Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Starborn Runner Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Iron Vulture Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Boundary Herald Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "The Wraith Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Vintage Interceptor Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Rasamama S36 Starship",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Atlas Sceptre Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pillar of Titan Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Basilisk Crown Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Direwasp Disintegrator Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Starbound v0.27 Multi-Tool",
+      "category": [
+        "17. Ships & Multi-Tools - Quicksilver & Expedition Rewards"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stasis Device Built",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fusion Ignitor Built",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Superconductor Built",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Circuit Board Built",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Arrive at Blue System",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Quantum Processor Built",
+      "category": [
+        "07. Goal Events - Auto-Granted Milestones"
+      ],
+      "progression": true
+    }
+  ]
+}

@@ -1,0 +1,3076 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "08. Warp to Another System",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Warp Cell Blueprint| AND |Starship Launch Fuel Blueprint| AND |Antimatter Blueprint| AND |Di-hydrogen Jelly Blueprint| AND |Antimatter Housing Blueprint| AND |Terrain Manipulator Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "01. Find Starship",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Recharge Hazard Protection",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Ferrite Dust",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Sodium",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Oxygen",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Carbon",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Di-hydrogen",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Copper",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Tritium",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Create Portable Refiner",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Chromatic Metal",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Terrain Manipulator Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Condensed Carbon",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Pure Ferrite",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Create a Carbon Nanotube",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Carbon Nanotubes Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "02. Refuel Launch Thrusters",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "03. Take Off",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "04. Refuel Pulse Engine",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "05. Obtain Antimatter Housing",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Antimatter Housing Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "06. Obtain Antimatter",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Antimatter Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Terrain Manipulator Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "07. Obtain Warp Cell",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": "|Warp Cell Blueprint| AND |Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint| AND |Antimatter Blueprint| AND |Antimatter Housing Blueprint| AND |Portable Refiner Blueprint| AND |Terrain Manipulator Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Destroy 1 Sentinel",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 1 Flora",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 5 Flora",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 10 Flora",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 1 Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 5 Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 10 Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 1 Mineral",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 5 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 10 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Tame 1 Creature",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Tame 3 Creatures",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Setup a Base Computer",
+      "category": [
+        "13b. Activities - Base Building"
+      ],
+      "requires": "|Base Computer Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Build a Habitable Base",
+      "category": [
+        "13b. Activities - Base Building"
+      ],
+      "requires": "|Base Computer Blueprint| AND (|Timber Shelter Construction Blueprints| OR |Stone Shelter Construction Blueprints| OR |Alloy Shelter Construction Blueprints|) AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Obtain B Class Starship or better",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Obtain B Class Multi-Tool or better",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01. Install a Cadmium Drive",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:1|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Destroy 1 Sentinel Ship",
+      "category": [
+        "12b. Combat - Space"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Destroy a Sentinel Quad",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Destroy a Sentinel Walker",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Destroy a Sentinel Capital Ship",
+      "category": [
+        "12b. Combat - Space"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Kill a Brood Mother",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Kill 5 Biological Horrors",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Destroy a Freighter/Dreadnought",
+      "category": [
+        "12b. Combat - Space"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "03. Travel to the Space Anomaly",
+      "category": [
+        "02. Story - Awakenings / Alone Amidst the Stars"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint| AND |Portable Refiner Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Scan 15 Flora",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 20 Flora",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 15 Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 20 Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 1 Rare Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 5 Rare Fauna",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 15 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Scan 20 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Catch 1 Fish",
+      "category": [
+        "14a. Optional Activities - Fishing"
+      ],
+      "requires": "|Fishing Rig Blueprint| AND |Di-hydrogen Jelly Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Gather a Juicy Grub",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Participate in an Arena Creature Battle",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "01. Travel to a Dissonant System",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "06. Obtain a Sentinel Starship",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Advanced Mining Laser Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Go to a Planet with Vile Brood",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Spot a Titan Worm",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Travel to a Pirate System",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Obtain a Freighter",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Use a Derelict Freighter Engineering Terminal",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Travel through a Black Hole",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Build a Corvette",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|Corvette Assembly|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Build a Custom Starship",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|Custom Starship Assembly|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Obtain A Class Starship or better",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Obtain A Class Multi-Tool or better",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Upgrade Exosuit Inventory",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Upgrade Starship Storage",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02. Travel to a Red System",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:1|",
+      "region": "Red System"
+    },
+    {
+      "name": "03. Gather Cadmium",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:1|",
+      "region": "Red System"
+    },
+    {
+      "name": "04. Install an Emeril Drive",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:2|",
+      "region": "Red System"
+    },
+    {
+      "name": "05. Travel to a Green System",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:2|",
+      "region": "Green System"
+    },
+    {
+      "name": "06. Gather Emeril",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:2|",
+      "region": "Green System"
+    },
+    {
+      "name": "07. Install an Indium Drive",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:3|",
+      "region": "Green System"
+    },
+    {
+      "name": "08. Travel to a Blue System",
+      "category": [
+        "03. Critical Path - Warp Ladder to Blue"
+      ],
+      "requires": "|Progressive Warp Drive:3|",
+      "region": "Blue System",
+      "place_item": [
+        "Arrive at Blue System"
+      ]
+    },
+    {
+      "name": "Mine Activated Indium in a Blue System",
+      "category": [
+        "07. Goals - Victory Condition"
+      ],
+      "requires": "|Arrive at Blue System| AND |Terrain Manipulator Blueprint|",
+      "region": "Blue System",
+      "victory": true
+    },
+    {
+      "name": "Gather Indium",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:3| AND |Terrain Manipulator Blueprint|",
+      "region": "Blue System"
+    },
+    {
+      "name": "Create a Custom Game with Tutorial Disabled",
+      "region": "First System",
+      "category": [
+        "00. Setup"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Visit a Space Station",
+      "region": "First System",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "|Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Recharge Life Support System",
+      "region": "First System",
+      "category": [
+        "01. Critical Path - Escape the First System"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather Pugneum",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "(|Portable Refiner Blueprint| AND |Metal Plating Blueprint|) OR (|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|) OR |Boltcaster Blueprint|"
+    },
+    {
+      "name": "05. Gather Atlantidium",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03. Gather 3 Radiant Shards",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": "|Advanced Mining Laser Blueprint| AND |Carbon Nanotubes Blueprint| AND |Hermetic Seal Blueprint|"
+    },
+    {
+      "name": "02. Find a Harmonic Camp",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Obtain a Sentinel Type Multi-Tool",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "04. Obtain an Inverted Mirror",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "08. Sentinel Starship - Dissonant World Chain"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Scan 25 Fauna",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "name": "Scan 30 Fauna",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "name": "Scan 25 Flora",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "name": "Scan 30 Flora",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "region": "Open Galaxy (Yellow Systems)",
+      "name": "Scan 25 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "region": "Open Galaxy (Yellow Systems)",
+      "name": "Scan 30 Minerals",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "name": "Obtain S Class Starship",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Obtain S Class Multi-Tool",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete 1 Mission from the Anomaly",
+      "region": "First System",
+      "category": [
+        "13e. Activities - Missions"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catch 3 Fish",
+      "region": "First System",
+      "category": [
+        "14a. Optional Activities - Fishing"
+      ],
+      "requires": "|Fishing Rig Blueprint| AND |Di-hydrogen Jelly Blueprint|"
+    },
+    {
+      "name": "Cook something with the Nutrient Processor",
+      "region": "First System",
+      "category": [
+        "13b. Activities - Base Building"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Gather Sulphurine",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Nitrogen",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Radon",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Solanium",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Frost Crystal",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Star Bulb",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Cactus Flesh",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Dioxite",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Ionised Cobalt",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Phosphorus",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Paraffinium",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Gamma Root",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Faecium",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Creature Pellets Blueprint| OR (|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|) OR (|Terrain Manipulator Blueprint| AND |Metal Plating Blueprint| AND |Warp Cell Blueprint| AND |Starship Launch Fuel Blueprint| AND |Antimatter Blueprint| AND |Di-hydrogen Jelly Blueprint| AND |Antimatter Housing Blueprint|)",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Mordite",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Gather Fungal Mould",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Pyrite",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Uranium",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Gather Ammonia",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01a. Obtain Thermic Condensate",
+      "category": [
+        "04a. Goal Craft - Quantum Processor (Superconductor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Nitrogen Salt",
+      "category": [
+        "04a. Goal Craft - Quantum Processor (Superconductor Branch)"
+      ],
+      "requires": "|Nitrogen Salt Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01c. Obtain Enriched Carbon",
+      "category": [
+        "04a. Goal Craft - Quantum Processor (Superconductor Branch)"
+      ],
+      "requires": "|Enriched Carbon Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02. Obtain Semiconductor",
+      "category": [
+        "04a. Goal Craft - Quantum Processor (Superconductor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Semiconductor Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "03. Obtain Superconductor",
+      "category": [
+        "04a. Goal Craft - Quantum Processor (Superconductor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Semiconductor Blueprint| AND |Superconductor Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)",
+      "place_item": [
+        "Superconductor Built"
+      ]
+    },
+    {
+      "name": "01a. Obtain Heat Capacitor",
+      "category": [
+        "04b. Goal Craft - Quantum Processor (Circuit Board Branch)"
+      ],
+      "requires": "|Heat Capacitor Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Poly Fibre",
+      "category": [
+        "04b. Goal Craft - Quantum Processor (Circuit Board Branch)"
+      ],
+      "requires": "|Poly Fibre Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02. Obtain Circuit Board",
+      "category": [
+        "04b. Goal Craft - Quantum Processor (Circuit Board Branch)"
+      ],
+      "requires": "|Heat Capacitor Blueprint| AND |Poly Fibre Blueprint| AND |Circuit Board Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)",
+      "place_item": [
+        "Circuit Board Built"
+      ]
+    },
+    {
+      "name": "Obtain Quantum Processor",
+      "category": [
+        "04c. Goal Craft - Quantum Processor (Final Assembly)"
+      ],
+      "requires": "|Superconductor Built| AND |Circuit Board Built| AND |Quantum Processor Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)",
+      "victory": false,
+      "place_item": [
+        "Quantum Processor Built"
+      ]
+    },
+    {
+      "name": "01a. Obtain Grantine",
+      "category": [
+        "05a. Goal Craft - Stasis Device (Iridesite Branch)"
+      ],
+      "requires": "|Grantine Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Magno-Gold",
+      "category": [
+        "05a. Goal Craft - Stasis Device (Iridesite Branch)"
+      ],
+      "requires": "|Magno-Gold Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01c. Obtain Aronium",
+      "category": [
+        "05a. Goal Craft - Stasis Device (Iridesite Branch)"
+      ],
+      "requires": "|Aronium Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02. Obtain Iridesite",
+      "category": [
+        "05a. Goal Craft - Stasis Device (Iridesite Branch)"
+      ],
+      "requires": "|Grantine Blueprint| AND |Magno-Gold Blueprint| AND |Aronium Blueprint| AND |Iridesite Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02a. Obtain Hot Ice",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Hot Ice Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "03. Obtain Cryo-Pump",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Hot Ice Blueprint| AND |Cryo-Pump Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01a. Obtain Glass",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Glass Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Lubricant",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Lubricant Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02b. Obtain Living Glass",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Glass Blueprint| AND |Lubricant Blueprint| AND |Living Glass Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "04. Obtain Cryogenic Chamber",
+      "category": [
+        "05b. Goal Craft - Stasis Device (Cryogenic Chamber Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Hot Ice Blueprint| AND |Cryo-Pump Blueprint| AND |Glass Blueprint| AND |Lubricant Blueprint| AND |Living Glass Blueprint| AND |Cryogenic Chamber Blueprint| AND |Haz-Mat Gauntlets Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02a. Obtain Organic Catalyst",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Enriched Carbon Blueprint| AND |Organic Catalyst Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "03. Obtain Fusion Accelerant",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Organic Catalyst Blueprint| AND |Fusion Accelerant Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01a. Obtain Acid",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Acid Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Unstable Gel",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Unstable Gel Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02b. Obtain Liquid Explosive",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Acid Blueprint| AND |Unstable Gel Blueprint| AND |Liquid Explosive Blueprint| AND |Haz-Mat Gauntlets Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "04. Obtain Portable Reactor",
+      "category": [
+        "06a. Goal Craft - Fusion Ignitor (Portable Reactor Branch)"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Organic Catalyst Blueprint| AND |Fusion Accelerant Blueprint| AND |Acid Blueprint| AND |Unstable Gel Blueprint| AND |Liquid Explosive Blueprint| AND |Portable Reactor Blueprint| AND |Haz-Mat Gauntlets Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01a. Obtain Dirty Bronze",
+      "category": [
+        "06b. Goal Craft - Fusion Ignitor (Geodesite Branch)"
+      ],
+      "requires": "|Dirty Bronze Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01b. Obtain Lemmium",
+      "category": [
+        "06b. Goal Craft - Fusion Ignitor (Geodesite Branch)"
+      ],
+      "requires": "|Lemmium Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01c. Obtain Herox",
+      "category": [
+        "06b. Goal Craft - Fusion Ignitor (Geodesite Branch)"
+      ],
+      "requires": "|Herox Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "02. Obtain Geodesite",
+      "category": [
+        "06b. Goal Craft - Fusion Ignitor (Geodesite Branch)"
+      ],
+      "requires": "|Dirty Bronze Blueprint| AND |Lemmium Blueprint| AND |Herox Blueprint| AND |Geodesite Blueprint|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Obtain Fusion Ignitor OR Stasis Device",
+      "category": [
+        "07. Goals - Victory Condition"
+      ],
+      "requires": "|Stasis Device Built| OR |Fusion Ignitor Built|",
+      "region": "Open Galaxy (Yellow Systems)",
+      "victory": true
+    },
+    {
+      "name": "Mine Activated Indium in a Blue System AND Obtain Fusion Ignitor OR Stasis Device",
+      "region": "Blue System",
+      "victory": true,
+      "category": [
+        "07. Goals - Victory Condition"
+      ],
+      "requires": "(|Stasis Device Built| OR |Fusion Ignitor Built|) AND |Arrive at Blue System| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Ferrite Dust",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather Activated Copper",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather Activated Cadmium",
+      "region": "Red System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:1| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather Activated Emeril",
+      "region": "Green System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:2| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather Activated Indium",
+      "region": "Green System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:3| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Obtain Navigation Data",
+      "region": "First System",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather Silicate Powder",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather Gold",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Gather Silver",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Gather Platnum",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Sodium",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Oxygen",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Carbon",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Di-hydrogen",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Copper",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 200 Tritium",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Gather 100 Chromatic Metal",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Condensed Carbon",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Gather 100 Pure Ferrite",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Gather 100 Cadmium",
+      "region": "Red System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:1| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Emeril",
+      "region": "Green System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:2| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Indium",
+      "region": "Blue System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:3| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Activated Copper",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Activated Cadmium",
+      "region": "Red System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:1| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Activated Emeril",
+      "region": "Green System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:2| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Activated Indium",
+      "region": "Green System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Progressive Warp Drive:3| AND |Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Pugneum",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "(|Portable Refiner Blueprint| AND |Metal Plating Blueprint|) OR (|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|) OR |Boltcaster Blueprint|"
+    },
+    {
+      "name": "Gather 100 Atlantidium",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Sulphurine",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|"
+    },
+    {
+      "name": "Gather 100 Nitrogen",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|"
+    },
+    {
+      "name": "Gather 100 Radon",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|"
+    },
+    {
+      "name": "Gather 100 Solanium",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|"
+    },
+    {
+      "name": "Gather 100 Frost Crystal",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|"
+    },
+    {
+      "name": "Gather 100 Star Bulb",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|"
+    },
+    {
+      "name": "Gather 100 Cactus Flesh",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Dioxite",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Cobalt",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Ionised Cobalt",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Gather 100 Phosphorus",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Paraffinium",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Gamma Root",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|"
+    },
+    {
+      "name": "Gather 100 Faecium",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Creature Pellets Blueprint| OR (|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|) OR (|Terrain Manipulator Blueprint| AND |Metal Plating Blueprint| AND |Warp Cell Blueprint| AND |Starship Launch Fuel Blueprint| AND |Antimatter Blueprint| AND |Di-hydrogen Jelly Blueprint| AND |Antimatter Housing Blueprint|)"
+    },
+    {
+      "name": "Gather 100 Mordite",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gather 100 Fungal Mould",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Haz-Mat Gauntlets Blueprint|"
+    },
+    {
+      "name": "Gather 100 Pyrite",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Uranium",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Ammonia",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Silicate Powder",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Gather 100 Gold",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Gather 100 Silver",
+      "region": "First System",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Gather 100 Platnum",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01. Follow Questline to Crashed Starship",
+      "region": "First System",
+      "category": [
+        "02. Story - Awakenings / Alone Amidst the Stars"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "02. Interact with / Repair Distress Beacon",
+      "region": "First System",
+      "category": [
+        "02. Story - Awakenings / Alone Amidst the Stars"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint| AND |Portable Refiner Blueprint|"
+    },
+    {
+      "name": "04. Explore the Space Anomaly",
+      "region": "First System",
+      "category": [
+        "02. Story - Awakenings / Alone Amidst the Stars"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint| AND |Portable Refiner Blueprint|"
+    },
+    {
+      "name": "Obtain a Fusion Ignitor",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "06c. Goal Craft - Fusion Ignitor (Final Assembly)"
+      ],
+      "requires": "|Organic Catalyst Blueprint| AND |Fusion Accelerant Blueprint| AND |Acid Blueprint| AND |Unstable Gel Blueprint| AND |Liquid Explosive Blueprint| AND |Portable Reactor Blueprint| AND |Dirty Bronze Blueprint| AND |Lemmium Blueprint| AND |Herox Blueprint| AND |Geodesite Blueprint| AND |Fusion Ignitor Blueprint| AND |Quantum Processor Built|",
+      "place_item": [
+        "Fusion Ignitor Built"
+      ]
+    },
+    {
+      "name": "Obtain a Stasis Device",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "05c. Goal Craft - Stasis Device (Final Assembly)"
+      ],
+      "requires": "|Grantine Blueprint| AND |Magno-Gold Blueprint| AND |Aronium Blueprint| AND |Iridesite Blueprint| AND |Hot Ice Blueprint| AND |Cryo-Pump Blueprint| AND |Glass Blueprint| AND |Lubricant Blueprint| AND |Living Glass Blueprint| AND |Cryogenic Chamber Blueprint| AND |Stasis Device Blueprint| AND |Quantum Processor Built|",
+      "place_item": [
+        "Stasis Device Built"
+      ]
+    },
+    {
+      "name": "Obtain Quantum Processor VICTORY",
+      "victory": true,
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "07. Goals - Victory Condition"
+      ],
+      "requires": "|Thermic Condensate Blueprint| AND |Nitrogen Salt Blueprint| AND |Enriched Carbon Blueprint| AND |Semiconductor Blueprint| AND |Superconductor Blueprint| AND |Heat Capacitor Blueprint| AND |Poly Fibre Blueprint| AND |Circuit Board Blueprint| AND |Quantum Processor Blueprint| AND |Haz-Mat Gauntlets Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)"
+    },
+    {
+      "name": "01 - Achieve 5 Journey Milestones",
+      "region": "First System",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Achieve 10 Journey Milestones",
+      "region": "First System",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Achieve 15 Journey Milestones",
+      "region": "First System",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Achieve 20 Journey Milestones",
+      "region": "First System",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Achieve 25 Journey Milestones",
+      "region": "First System",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Achieve 30 Journey Milestones",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Achieve 35 Journey Milestones",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Achieve 40 Journey Milestones",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Achieve 45 Journey Milestones",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Achieve 50 Journey Milestones",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11a. Milestones - Overall Journey"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Meet 10 Aliens",
+      "region": "First System",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Meet 20 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Meet 30 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Meet 35 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Meet 40 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Meet 45 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Meet 50 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Meet 60 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Meet 70 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Meet 80 Aliens",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11b. Milestones - Alien Encounters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Learn 5 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "02 - Learn 8 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "03 - Learn 10 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "04 - Learn 15 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "05 - Learn 20 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "06 - Learn 30 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "07 - Learn 50 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "08 - Learn 80 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "09 - Learn 100 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "10 - Learn 150 Words",
+      "category": [
+        "11c. Milestones - Words Collected"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "01 - Discover 5 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Discover 10 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Discover 15 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Discover 20 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Discover 25 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Discover 30 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Discover 40 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Discover 50 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Discover 60 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Discover 75 Systems",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11d. Milestones - Space Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Discovered All Fauna On 1 Planet",
+      "region": "First System",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Discovered All Fauna On 2 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Discovered All Fauna On 3 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Discovered All Fauna On 4 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Discovered All Fauna On 5 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Discovered All Fauna On 6 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Discovered All Fauna On 7 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Discovered All Fauna On 8 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Discovered All Fauna On 9 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Discovered All Fauna On 10 Planets",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11e. Milestones - Planetary Zoology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Walk 8,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Walk 10,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Walk 15,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Walk 20,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Walk 25,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Walk 30,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Walk 40,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Walk 50,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Walk 75,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Walk 100,000u",
+      "region": "First System",
+      "category": [
+        "11f. Milestones - On-foot Exploration"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Survive 900 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Survive 2,700 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Survive 4,500 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Survive 8,000 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Survive 12,960 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Survive 18,720 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Survive 27,000 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Survive 32,400 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Survive 37,800 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Survive 43,200 Minutes On An Exteme Condition Planet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11g. Milestones - Extreme Survival"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Destroy 5 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "02 - Destroy 10 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "03 - Destroy 15 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "04 - Destroy 20 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "05 - Destroy 30 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "06 - Destroy 40 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "07 - Destroy 50 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "08 - Destroy 60 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "09 - Destroy 70 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "10 - Destroy 80 Sentinels",
+      "category": [
+        "11h. Milestones - Sentinels Destroyed"
+      ],
+      "requires": "|Boltcaster Blueprint| AND |Carbon Nanotubes Blueprint| AND |Portable Refiner Blueprint| AND |Metal Plating Blueprint|",
+      "region": "First System"
+    },
+    {
+      "name": "01 - Accrue 75,000 Units",
+      "region": "First System",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "02 - Accrue 100,000 Units",
+      "region": "First System",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "03 - Accrue 150,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "04 - Accrue 250,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "05 - Accrue 500,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "06 - Accrue 750,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "07 - Accrue 1,000,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "08 - Accrue 1,250,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "09 - Accrue 1,500,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "10 - Accrue 2,000,000 Units",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11i. Milestones - Units Accrued"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "01 - Kill 5 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "02 - Kill 10 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "03 - Kill 15 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "04 - Kill 20 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "05 - Kill 30 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "06 - Kill 40 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "07 - Kill 50 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "08 - Kill 60 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "09 - Kill 70 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "10 - Kill 80 Pirate Ships",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "11j. Milestones - Ships Destroyed"
+      ],
+      "requires": "|Metal Plating Blueprint| AND |Starship Launch Fuel Blueprint|"
+    },
+    {
+      "name": "Scan 10 Rare Fauna",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint|"
+    },
+    {
+      "name": "Build a land based Exocraft",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|All Exocraft Blueprints|",
+      "region": "First System"
+    },
+    {
+      "name": "Build a submarine Exocraft",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|All Exocraft Blueprints|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Build an Exocraft Race and Complete it",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|All Exocraft Blueprints|",
+      "region": "First System"
+    },
+    {
+      "name": "Assemble a Fossil Display",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": "|Fossil Displays Construction Blueprints|",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Accrue 500 Nanites",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "First System"
+    },
+    {
+      "name": "Accrue 1000 Nanites",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Accrue 2000 Nanites",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Accrue 5000 Nanites",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Accrue 10000 Nanites",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Visit an Atlas Station",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Take Control of a Settlement",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Extract a Reality Glitch",
+      "category": [
+        "13f. Activities - Miscellaneous"
+      ],
+      "requires": "",
+      "region": "Open Galaxy (Yellow Systems)"
+    },
+    {
+      "name": "Collect 10 fossils",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reassemble a biped skeleton",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": "|Fossil Displays Construction Blueprints|"
+    },
+    {
+      "name": "Reassemble a quadruped skeleton",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": "|Fossil Displays Construction Blueprints|"
+    },
+    {
+      "name": "Reassemble a reptilian skeleton",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": "|Fossil Displays Construction Blueprints|"
+    },
+    {
+      "name": "Reassemble a protoform skeleton",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": "|Fossil Displays Construction Blueprints|"
+    },
+    {
+      "name": "Successfully make trade offer for fossil",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14d. Optional Activities - Archaeology"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Cultivation Chamber",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Fleet Command Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Scanner Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Teleport Chamber",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Appearance Modifier Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Galactic Trade Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Storage Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Refiner Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Stellar Extractor Room",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Construct Orbital Exocraft Materialiser",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Complete 1 Frigate Expedition",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Recruit 1 Frigate to your Fleet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Recruit 3 Frigates to your Fleet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Recruit 5 Frigates to your Fleet",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Warp with your Freighter",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Upgrade Freighter Storage",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14c. Optional Activities - Freighters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Discover an abandoned system",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chart a waypoint",
+      "region": "First System",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Acquire an abyssal treasure",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Reach 80u depth underwater",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13f. Activities - Miscellaneous"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Come to the aid of a stranded lifeform",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13f. Activities - Miscellaneous"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Restore and repair a crashed starship (Ability to take off)",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "(|Portable Refiner Blueprint| OR |Personal Refiner Blueprint| OR |Personal Refiner Mk 2 Blueprint|) and |Di-hydrogen Jelly Blueprint| AND |Hermetic Seal Blueprint| AND |Metal Plating Blueprint|"
+    },
+    {
+      "name": "Fully explore a freighter crash site",
+      "region": "First System",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": "|Terrain Manipulator Blueprint|"
+    },
+    {
+      "name": "Generate 150 units of power at a base",
+      "region": "First System",
+      "category": [
+        "13b. Activities - Base Building"
+      ],
+      "requires": "|Base Computer Blueprint| AND (|Technology Modules Construction Blueprints| OR |Industrial Modules Construction Blueprints|)"
+    },
+    {
+      "name": "Recruit someone to your squadron",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13f. Activities - Miscellaneous"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eliminate 10 Hazardous Flora",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "12a. Combat - On Foot"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Visit a titan burrow",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Get an egg (ingredient) from a creature",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|"
+    },
+    {
+      "name": "Ride on the back of a land creature",
+      "region": "First System",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|"
+    },
+    {
+      "name": "Fly on the back of a flying creature",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13c. Activities - Creatures"
+      ],
+      "requires": "|Creature Pellets Blueprint|"
+    },
+    {
+      "name": "Gather a Hypnotic Eye",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13d. Activities - Points of Interest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Earn 200k Units for Scanning a Creature",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "10. Discovery - Scans"
+      ],
+      "requires": "|Analysis Visor Blueprint| AND |All Multi-Tool Upgrades|"
+    },
+    {
+      "name": "Steal a Multi-Tool from a Sentinel Pillar",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13a. Activities - Ships, Multi-Tools & Exocraft"
+      ],
+      "requires": "|Boltcaster Blueprint|"
+    },
+    {
+      "name": "Gather a Storm Crystal",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "09. Gathering"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Smuggle 100k Units of Contraband",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "13f. Activities - Miscellaneous"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Catch an S-Class Fish",
+      "region": "First System",
+      "category": [
+        "14a. Optional Activities - Fishing"
+      ],
+      "requires": "|Fishing Rig Blueprint| AND |Di-hydrogen Jelly Blueprint|"
+    },
+    {
+      "name": "Catch an A-Class Fish",
+      "region": "First System",
+      "category": [
+        "14a. Optional Activities - Fishing"
+      ],
+      "requires": "|Fishing Rig Blueprint| AND |Di-hydrogen Jelly Blueprint|"
+    },
+    {
+      "name": "Catch a B-Class Fish",
+      "region": "First System",
+      "category": [
+        "14a. Optional Activities - Fishing"
+      ],
+      "requires": "|Fishing Rig Blueprint| AND |Di-hydrogen Jelly Blueprint|"
+    },
+    {
+      "name": "Extract Nutrients from Flora using Nutrient Processor",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Create Edible Product using Nutrient Processor",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Make Butter",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Cook Oil & Crunchy Caramel",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Make an Ice Cream",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Bake a Batter",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Cook Eggs or Omelette",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Brew a Drink",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Make a Sauce",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Cook up a Soup or Stew",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Create a Jam",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Bake a Doughnut",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Bake a Tart or Pie",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Bake a Cake",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Make Seafood",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Bake Biscuits",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Impress Cronus",
+      "region": "Open Galaxy (Yellow Systems)",
+      "category": [
+        "14b. Optional Activities - Cooking"
+      ],
+      "requires": "|Portable Refiner Blueprint| AND |Metal Plating Blueprint| AND |Hermetic Seal Blueprint| AND |Technology Modules Construction Blueprints| AND |Base Computer Blueprint|"
+    },
+    {
+      "name": "Build a ByteBeat Sequencer and make a song",
+      "category": [
+        "13b. Activities - Base Building"
+      ],
+      "requires": "|Base Computer Blueprint| AND |Antimatter Blueprint| AND |Metal Plating Blueprint| AND |Technology Modules Construction Blueprints|",
+      "region": "First System"
+    }
+  ]
+}

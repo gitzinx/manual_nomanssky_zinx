@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "NoMansSky",
+  "creator": "Zinx",
+  "filler_item_name": "No Free Slots in Suit Inventory",
+  "starting_items": []
+}
